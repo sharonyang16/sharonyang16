@@ -17,6 +17,8 @@ I'm Sharon Yang! I'm a third year B.S. Computer Science and Design student at No
 ####  😄 Pronouns:
 - any
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonyang16&layout=compact&theme=calm)
+
 ![Sharon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sharonyang16&theme=calm&show_icons=true)
 
 <!--
