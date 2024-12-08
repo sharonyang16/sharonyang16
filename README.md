@@ -1,21 +1,12 @@
 ### Hello! 👋
-I'm Sharon Yang! I'm a third year B.S. Computer Science and Design student at Northeastern University with an interest in full-stack web development and interaction design. 
-
-#### 🔭 I’m currently working on ...
-  - creating my personal website
-  - creating UI designs for software @ Northeastern Electric Racing
+I'm Sharon Yang! I'm a fourth year B.S. Computer Science and Design student at Northeastern University with an interest in full-stack web development and interaction design. 
 
 ####  🌱 I’m currently learning ...
   - Swift/SwiftUI
-  - Node.js
-  - GraphQL
  
 ####  📫 How to reach me: 
 - email me at yang.shar@northeastern.edu
 - pm me on linkedin
-
-####  😄 Pronouns:
-- any
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonyang16&layout=compact&theme=calm)
 
