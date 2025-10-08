@@ -1,13 +1,9 @@
 ### Hello! 👋
-I'm Sharon Yang! I'm a fourth year B.S. Computer Science and Design student at Northeastern University with an interest in full-stack web development and interaction design. 
+I'm Sharon Yang! I'm an undergraduate Computer Science and Design student at Northeastern University with an interest in full-stack web development and UI/UX design. 
 
 ####  📫 How to reach me: 
 - email me at yang.shar@northeastern.edu
 - pm me on linkedin
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sharonyang16&layout=compact&theme=calm)
-
-![Sharon’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sharonyang16&theme=calm&show_icons=true)
 
 <!--
 **sharonyang16/sharonyang16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
