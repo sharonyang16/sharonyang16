@@ -1,9 +1,8 @@
 ### Hello! 👋
-I'm Sharon Yang! I'm an undergraduate Computer Science and Design student at Northeastern University with an interest in full-stack web development and UI/UX design. 
+I'm Sharon Yang! I’m a recent B.S. Computer Science and Design grad from Northeastern University with an interest in full-stack web development and UI/UX design. 
 
 ####  📫 How to reach me: 
-- email me at yang.shar@northeastern.edu
-- pm me on linkedin
+- email me (sharonyyang0@gmail.com)
 
 <!--
 **sharonyang16/sharonyang16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
